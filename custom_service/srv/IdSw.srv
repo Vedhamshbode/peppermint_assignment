@@ -1,0 +1,4 @@
+bool start  # Input array
+---
+string data
+bool res

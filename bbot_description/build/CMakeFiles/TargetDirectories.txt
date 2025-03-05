@@ -1,0 +1,9 @@
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/uninstall.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/bbot_description_uninstall.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/test.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/edit_cache.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/rebuild_cache.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/list_install_components.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/install.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/install/local.dir
+/home/vedh/workspaces/bbot_ws/src/bbot_description/build/CMakeFiles/install/strip.dir
