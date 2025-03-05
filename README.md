@@ -51,7 +51,7 @@ This sends a request to the traj_service to record the robot’s trajectory into
 ## Topics and Services
 
 ### Published Topics:
-- `/trajectory_markers` → MarkerArray for visualizing the path in RViz.
+- `/visualization_marker_array` → MarkerArray for visualizing the path in RViz.
 - `/odom` → Used for extracting robot position data.
 
 ### Services:
@@ -66,7 +66,7 @@ To visualize the trajectory:
    ros2 run rviz2 rviz2
    ```
 2. Add a **MarkerArray** display.
-3. Set the topic to **/trajectory_markers**.
+3. Set the topic to **/visualization_marker_array**.
 
 ## License
 This project is licensed under the MIT License.
